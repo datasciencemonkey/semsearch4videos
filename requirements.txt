@@ -1,0 +1,11 @@
+langchain
+openai
+youtube-transcript-api
+unstructured[local-inference]
+detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2
+sentence_transformers
+transformers
+tiktoken
+chromadb
+pytube
+scrapetube
